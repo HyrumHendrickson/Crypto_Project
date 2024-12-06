@@ -1,0 +1,1 @@
+C:\Users\Hendr\OneDrive\Desktop\Homework\repos\crypto_project\crypto_simulation\target\debug\crypto_simulation.exe: C:\Users\Hendr\OneDrive\Desktop\Homework\repos\crypto_project\crypto_simulation\src\main.rs
